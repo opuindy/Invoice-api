@@ -1,8 +1,8 @@
 {
-  "name": "Invoice-api",
+  "name": "invoice-api",
   "version": "1.0.0",
   "description": "Simple json database",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
