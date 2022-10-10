@@ -1,12 +1,14 @@
 {
   "name": "Invoice-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple json database",
   "main": "index.js",
   "scripts": {
-    "start": "json-server -p 4000 -w db.json"
+    "start": "node server.js"
   },
-  "keywords": [],
+  "keywords": [
+    "opuindy, json-server, heroku, node, REST API"
+  ],
   "author": "opuindy lenkus",
   "license": "ISC",
   "dependencies": {
