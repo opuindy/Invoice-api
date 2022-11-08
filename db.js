@@ -1,5 +1,5 @@
 const invoices = require('./data/invoices');
-const invoices = require('./data/messages');
+const messages = require('./data/messages');
 
 module.exports = {
   invoices,
